@@ -159,25 +159,25 @@ This is a user authentication system built with Node.js, Express, and MongoDB. I
 
 For a detailed video walkthrough of all operations being performed in Postman, please refer to the following link:
 
-[![Watch the video](./screenshots/video_thumbnail.png)](https://your_video_link_here)
+[![Watch the video](./screenshots/video_thumbnail.png)](https://www.youtube.com/watch?v=vC6HGOGtntM)
 
 ## Screenshots
 
 - **Registration:**
 
-  ![Registration](./screenshots/register.png)
+  ![Registration](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/register_page.png?alt=media&token=5b12b573-0d0e-4fa2-bc69-a1e8b88d5e32)
 
 - **Login:**
 
-  ![Login](./screenshots/login.png)
+  ![Login](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/login_page.png?alt=media&token=7be5da97-ca46-4b76-b76e-bdc7a17b0e0e)
 
 - **Request Password Reset:**
 
-  ![Request Password Reset](./screenshots/reset_password_request.png)
+  ![Request Password Reset](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/password_reset.png?alt=media&token=614e37d1-2078-411f-ade0-99c444164407)
 
 - **Reset Password:**
 
-  ![Reset Password](./screenshots/reset_password.png)
+  ![Reset Password](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Reaset_password_request.png?alt=media&token=e8924424-4bc1-48a0-9432-676caf7ba409)
 
 ## License
 
